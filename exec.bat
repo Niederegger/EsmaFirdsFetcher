@@ -1,0 +1,1 @@
+java -jar target\EsmaFirdsFetcher-0.0.1-SNAPSHOT.jar D:\wpwiki\System\DataColletors\EsmaFirds\data
